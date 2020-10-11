@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="320px" height="320px" viewBox="0 0 320 320" enable-background="new 0 0 320 320" xml:space="preserve">
+<defs>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="20" y="0" width="280" height="320">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
+</defs>
+<mask maskUnits="userSpaceOnUse" x="20" y="0" width="280" height="320" id="a">
+	<path fill="#FFFFFF" filter="url(#Adobe_OpacityMaskFilter)" d="M0,0h320v320H0V0z"/>
+	<path fill="none" stroke="#000000" stroke-width="25" d="M140,100l-60,60l60,60 M180,100l60,60l-60,60"/>
+</mask>
+<path mask="url(#a)" fill="#656565" d="M160,0l140,80v160l-140,80L20,240V80L160,0z"/>
+</svg>
