@@ -77,6 +77,7 @@
 				"variable.other.object.property.js",
 				"variable.other.property.js",
 				"variable.object.property.js",
+				"support.variable.property.js",
 				"punctuation.definition.block.js",
 				"meta.object-literal.key.js",
 				"meta.brace.round.js",
