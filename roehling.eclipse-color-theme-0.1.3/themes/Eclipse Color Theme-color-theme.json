@@ -141,7 +141,8 @@
 		{
 			"name": "JS - JSX default",
 			"scope": [
-				"meta.jsx.children.js"
+				"meta.jsx.children.js",
+				"string.template.js"
 			],
 			"settings": {
 				"foreground": "#7f7f7f",
