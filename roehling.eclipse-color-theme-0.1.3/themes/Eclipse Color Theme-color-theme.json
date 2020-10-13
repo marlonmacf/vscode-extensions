@@ -38,8 +38,8 @@
 				"punctuation.definition.tag.end.js",
 				"punctuation.section.embedded.begin.js",
 				"punctuation.section.embedded.end.js",
-				"meta.arrow.js",
 				"storage.type.function.arrow.js",
+				"meta.arrow.js",
 				"punctuation.definition.template-expression.begin.js",
 				"punctuation.definition.template-expression.end.js",
 				"punctuation.definition.string.template.begin.js",
@@ -57,7 +57,9 @@
 				"variable.other.object.js",
 				"variable.other.constant.js",
 				"variable.other.readwrite.js",
+				"variable.other.readwrite.alias.js",
 				"entity.name.type.class.js",
+				"entity.name.type.js",
 				"meta.import.js",
 				"meta.method.declaration",
 				"entity.other.inherited-class.js",
@@ -74,6 +76,7 @@
 			"scope": [
 				"meta.definition.property.js",
 				"entity.other.attribute-name.js",
+				"variable.other.constant.property.js",
 				"variable.other.object.property.js",
 				"variable.other.property.js",
 				"variable.object.property.js",
@@ -83,10 +86,12 @@
 				"meta.brace.round.js",
 				"meta.brace.square.js",
 				"meta.function-call.js",
+				"meta.function.js",
 				"meta.export.default.js",
 				"meta.definition.method.js",
 				"meta.method.declaration.js",
 				"meta.definition.function.js",
+				"meta.block.js",
 				"keyword.operator.logical.js"
 			],
 			"settings": {
@@ -143,7 +148,9 @@
 			"name": "JS - JSX default",
 			"scope": [
 				"meta.jsx.children.js",
-				"string.template.js"
+				"string.template.js",
+				"punctuation.terminator.statement.js",
+				"keyword.operator.assignment.js"
 			],
 			"settings": {
 				"foreground": "#7f7f7f",
