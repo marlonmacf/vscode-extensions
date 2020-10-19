@@ -58,13 +58,15 @@
 				"variable.other.constant.js",
 				"variable.other.readwrite.js",
 				"variable.other.readwrite.alias.js",
+				"entity.name.type.module.js",
 				"entity.name.type.class.js",
 				"entity.name.type.js",
 				"meta.import.js",
 				"meta.method.declaration",
 				"entity.other.inherited-class.js",
 				"support.class.component.js",
-				"support.class.builtin.js"
+				"support.class.builtin.js",
+				"support.constant.json.js"
 			],
 			"settings": {
 				"foreground": "#957d47",
@@ -82,6 +84,7 @@
 				"variable.object.property.js",
 				"support.variable.property.js",
 				"punctuation.definition.block.js",
+				"punctuation.definition.binding-pattern.object.js",
 				"meta.object-literal.key.js",
 				"meta.brace.round.js",
 				"meta.brace.square.js",
@@ -261,7 +264,9 @@
 			"name": "CSS - numbers",
 			"scope": [
 				"constant.numeric.css",
-				"constant.other.color.rgb-value.hex.css"
+				"constant.other.color.rgb-value.hex.css",
+				"support.constant.color.w3c-standard-color-name.css",
+				"meta.property-value.css"
 			],
 			"settings": {
 				"fontStyle": "",
@@ -283,7 +288,12 @@
 			"scope": [
 				"punctuation.section.property-list.begin.bracket.curly.css",
 				"punctuation.section.property-list.end.bracket.curly.css",
-				"support.type.property-name.css"
+				"punctuation.section.function.begin.bracket.round.css",
+				"punctuation.section.function.end.bracket.round.css",
+				"support.type.property-name.css",
+				"support.function.transform.css",
+				"support.function.gradient.css",
+				"support.function.misc.css"
 			],
 			"settings": {
 				"fontStyle": "",
