@@ -3,7 +3,7 @@
 	"private": true,
 	"displayName": "%displayName%",
 	"description": "%description%",
-	"version": "0.50.0",
+	"version": "0.50.1",
 	"publisher": "ms-vscode-remote",
 	"icon": "resources/remote-wsl.png",
 	"preview": true,

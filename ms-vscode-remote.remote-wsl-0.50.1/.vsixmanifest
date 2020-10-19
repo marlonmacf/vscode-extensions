@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="remote-wsl" Version="0.50.0" Publisher="ms-vscode-remote"/>
+    <Identity Language="en-US" Id="remote-wsl" Version="0.50.1" Publisher="ms-vscode-remote"/>
     <DisplayName>Remote - WSL</DisplayName>
     <Description xml:space="preserve">Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code&#39;s full feature set.</Description>
     <Tags>remote,wsl,remote development,keybindings</Tags>
