@@ -1,0 +1,17 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../PowerShellEditorServices"
+        }
+    ],
+  "settings": {
+    "files.associations": {
+      "**/snippets/*.json": "jsonc",
+      "**/.vsts-ci/**/*.yml": "azure-pipelines",
+    },
+    "typescript.tsdk": "./node_modules/typescript/lib"
+  }
+}
